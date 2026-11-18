@@ -1,5 +1,5 @@
 # Python 3.10 à 3.12 recommandé
-tensorflow>=2.16
+TensorFlow==2.21.0
 numpy
 pandas
 matplotlib
@@ -10,3 +10,4 @@ opencv-python-headless
 streamlit>=1.40
 jupyterlab
 ipykernel
+
