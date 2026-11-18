@@ -1,0 +1,12 @@
+# Python 3.10 à 3.12 recommandé
+tensorflow>=2.16
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+pillow
+opencv-python-headless
+streamlit>=1.40
+jupyterlab
+ipykernel

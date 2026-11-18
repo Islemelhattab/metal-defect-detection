@@ -1,0 +1,24 @@
+# Environnements virtuels
+venv/
+.venv/
+env/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Données (volumineuses, reproductibles avec src/prepare_dataset.py)
+data_raw/
+dataset/
+*.zip
+
+# Modèle factice (Personne 2, local uniquement)
+models/dummy_model.keras
+
+# Divers
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.env
